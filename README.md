@@ -4,7 +4,7 @@ Digital Director with 12+ years of experience in journalism 🗞️
 
 University of Washington's Master of Science in Information Management (MSIM) Program 🎓
 
-I interpret complex data into stories people can act on
+I translate complex data into stories people can act on
 
 ---
 
@@ -12,7 +12,7 @@ I interpret complex data into stories people can act on
 
 - Experienced storyteller with a niche in analyzing data to create narratives
 - Can go beyond just analysis with work in SQL, Python, and R
-- Team-focused leader with experience working across shareholders
+- Team-focused leader with experience working across stakeholders
 
 Why MSIM? I've always believed in growth through education, and the iSchool at the University of Washington challenged me to learn new skills in data science, AI/Machine Learning, and Business Intelligence. 
 
@@ -52,7 +52,7 @@ Brief one-sentence description.
 ## Education
 
 **MS in Information Management** — University of Washington *2026*  
-**BS in Mass Communciations** — University of Arkansas Fort Smith *2015*
+**BS in Mass Communications** — University of Arkansas Fort Smith *2015*
 
 ---
 
