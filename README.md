@@ -2,9 +2,9 @@
 
 Digital Director with 12+ years of experience in journalism 🗞️
 
-University of Washington's Master of Science in Information Management (MSIM) Program 🎓
+Recent Data Analyst Grad from the University of Washington 🎓
 
-I translate complex data into stories people can act on
+Working to bridge the gap between complex data and storytelling
 
 ---
 
