@@ -30,7 +30,7 @@ Graduate school project focused on researching whether AI can support teen menta
 [Read more here](https://www.compassion8innovation.org/research/healio-pilot-program-uw-2026/)
 
 ### Published Articles
-[View published articles here](https://muckrack.com/casey-frizzell/articles)
+[View published articles here](https://muckrack.com/casey-frizzell)
 
 ---
 
