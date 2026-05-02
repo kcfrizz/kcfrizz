@@ -18,10 +18,12 @@ Power BI dashboard tracking audience engagement trends across a regional news pl
 **Tools:** Power BI, Excel  
 [View project →](link-to-repo)
 
-### [Project Name]
-Brief one-sentence description.  
-**Tools:** R, Power BI  
-[View project →](link-to-repo)
+### Digital KPI Report - Audience Analytics
+Tracked visits, video plays, and streaming minutes for a regional news platform 
+using R. Produced year-over-year bar charts and monthly trend analysis with 
+linear trendlines. Data anonymized to protect proprietary information.
+**Tools:** R, ggplot2, dplyr
+[View project →](https://kcfrizz.github.io/digital-kpi-report/-Digital_KPI_Report_Portfolio.html)
 
 ### He@lio AI Chatbot
 Graduate school project focused on researching whether AI can support teen mental health  
