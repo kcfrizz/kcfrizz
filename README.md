@@ -16,7 +16,6 @@ Digital lead with over a decade of experience driving analytics-led growth acros
 ### Streaming Platform Growth Analysis
 Power BI dashboard tracking audience engagement trends across a regional news platform (data anonymized) 
 **Tools:** Power BI, Excel  
-[View project →](link-to-repo)
 
 ### Digital KPI Report - Audience Analytics
 Tracked visits, video plays, and streaming minutes for a regional news platform 
